@@ -4,7 +4,8 @@ date = 2024-08-17T21:46:16+02:00
 draft = false
 +++
 
-![b](/posts/b.jpg)
+
+![ok](b.jpg)
 
 # La CGT : Un syndicat historique en France
 
