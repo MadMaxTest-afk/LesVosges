@@ -4,6 +4,8 @@ date = 2024-08-17T21:46:16+02:00
 draft = false
 +++
 
+![b](/posts/b.jpg)
+
 # La CGT : Un syndicat historique en France
 
 La Confédération Générale du Travail (CGT) est l'un des plus anciens et des plus importants syndicats de travailleurs en France. Fondée en 1895, elle joue un rôle crucial dans le paysage social et politique français.
@@ -37,4 +39,7 @@ Malgré son importance, la CGT fait face à des défis :
 - Débats internes sur son orientation politique
 
 En conclusion, la CGT reste un acteur majeur du mouvement syndical français, continuant à influencer le débat social et économique du pays.
+
+
+
 
