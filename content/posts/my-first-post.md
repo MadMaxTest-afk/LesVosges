@@ -1,14 +1,20 @@
-+++
-title = 'My First Post'
-date = 2024-08-17T21:46:16+02:00
-draft = false
+---
+author: "Hugo Authors"
+title: "Markdown Syntax Guide"
+date: "2019-03-11"
+description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+tags: ["markdown", "css", "html", "themes"]
+categories: ["themes", "syntax"]
+series: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
 cover:
-  image: images/b.jpg
-  hiddenInList: true
-+++
+  image: "MyBlog/images/b.png"
+  caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
+ShowToc: true
+TocOpen: true
+---
 
 
-![ok](b.jpg)
 
 # La CGT : Un syndicat historique en France
 
