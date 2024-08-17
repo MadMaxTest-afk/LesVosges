@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.132.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2024 21:46:16 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 17 Aug 2024 21:46:16 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>La CGT : Un syndicat historique en France La Confédération Générale du Travail (CGT) est l&amp;rsquo;un des plus anciens et des plus importants syndicats de travailleurs en France. Fondée en 1895, elle joue un rôle crucial dans le paysage social et politique français.
+Histoire 1895 : Création de la CGT 1906 : Adoption de la Charte d&amp;rsquo;Amiens, établissant l&amp;rsquo;indépendance du syndicat 1947 : Scission et création de la CGT-FO Objectifs principaux Défense des droits des travailleurs Amélioration des conditions de travail Lutte contre les inégalités sociales Actions notables La CGT est connue pour son engagement dans :</description>
+    </item>
+  </channel>
+</rss>
