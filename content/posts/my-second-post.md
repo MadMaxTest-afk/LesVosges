@@ -1,8 +1,20 @@
-+++
-title = 'My Second Post'
-date = 2024-08-17T22:03:52+02:00
-draft = false
-+++
+---
+author: "Maximilien Petit"
+title: "Markdown Syntax Guide For RTL"
+date: "2019-03-11"
+description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+FAtags: ["markdown", "css", "html", "themes"]
+FAcategories: ["themes", "syntax"]
+FAseries: ["Themes Guide"]
+aliases: ["migrate-from-jekyl"]
+ShowToc: true
+TocOpen: true
+weight: 2
+---
+
+{{< youtube hjD9jTi_DQ4 >}}
+
+
 # Le SNPTES : Syndicat National des Personnels Techniques, Scientifiques et des Bibliothèques de l'Enseignement Supérieur
 
 ## Qu'est-ce que le SNPTES ?
@@ -44,3 +56,4 @@ Pour rejoindre le SNPTES, vous pouvez :
 3. Remplir le formulaire d'adhésion en ligne
 
 N'hésitez pas à vous engager pour défendre vos droits et ceux de vos collègues !
+
