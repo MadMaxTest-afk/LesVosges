@@ -2,6 +2,9 @@
 title = 'My First Post'
 date = 2024-08-17T21:46:16+02:00
 draft = false
+cover:
+  image: images/b.jpg
+  hiddenInList: true
 +++
 
 
